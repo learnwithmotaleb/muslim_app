@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "807156513820",
+    "project_id": "ummhamuslimbangla",
+    "storage_bucket": "ummhamuslimbangla.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:807156513820:android:ae8d584c8eac794aa633d9",
+        "android_client_info": {
+          "package_name": "com.lwmsoftltd.ummahmuslimbangla"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBx4-FNuUOCPqKWO97sbXI3SQnyTeci1oE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
